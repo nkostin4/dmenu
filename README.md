@@ -1,4 +1,8 @@
-# Luke's dmenu
+# N. Kostin's dmenu
+
+I forked this repo from Luke Smith because I can no longer find patches that I want on `suckless.org`. Other than that, I didn't change much. Below is Luke's original README.
+
+---
 
 Extra stuff added to vanilla dmenu:
 
